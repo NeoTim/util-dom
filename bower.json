@@ -1,0 +1,22 @@
+{
+  "name": "util-dom",
+  "description": "dom helper",
+  "main": "dist/util-dom.js",
+  "authors": [
+    "forsigner"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dom",
+    "jquery free"
+  ],
+  "homepage": "https://github.com/forsigner/util-dom",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
